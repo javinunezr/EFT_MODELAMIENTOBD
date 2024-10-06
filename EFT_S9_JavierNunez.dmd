@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="EFT_S9_JavierNunez" id="F66E3551-4FD9-E4B8-7927-7FB890ABDE10" version="3.5">
+<createdBy>javier</createdBy>
+<createdTime>2024-10-06 15:30:54 UTC</createdTime>
+<ownerDesignName>EFT_S9_JavierNunez</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F66E3551-4FD9-E4B8-7927-7FB890ABDE10</designId>
+</OSDM_Design>
